@@ -1,0 +1,2 @@
+[18/Feb/2025:16:31:17 +0000] 200 - GET http shivakarnati.duckdns.org "/" [Client 141.55.47.117] [Length 568] [Gzip 1.86] "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" "-"
+[18/Feb/2025:16:31:17 +0000] 400 - GET http shivakarnati.duckdns.org "/favicon.ico" [Client 127.0.0.1] [Length 230] [Gzip -] "-" "-"
