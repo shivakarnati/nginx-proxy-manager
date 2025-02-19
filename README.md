@@ -9,8 +9,8 @@ This repository is to create the custom URL proxy using NGINX.
 4. Create a docker compose file for Nginx-proxy, as shown in `https://nginxproxymanager.com/guide/`
 5. Bring up the given compose file using `docker-compose up -d`
 6. Check your `localhost`, and login using
-     ```Email:    admin@example.com
-        Password: changeme```
+
+     ```Email:    admin@example.com, Password: changeme```
 7. Add proxy host in the given dashboard ![image](https://github.com/user-attachments/assets/75568cec-e548-4f63-b3ad-b68f6dedec03)
 
 Here, we can select the SSL certificates to access our proxy URL within the network.
